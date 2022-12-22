@@ -5,21 +5,21 @@ const projectName = 'tree-map';
 
 const DATASETS = {
   videogames: {
-    TITLE: 'Video Game Sales',
-    DESCRIPTION: 'Top 100 Most Sold Video Games Grouped by Platform',
+    TITLE: 'Ventas de videojuegos',
+    DESCRIPTION: 'Los 100 videojuegos más vendidos agrupados por plataforma',
     FILE_PATH:
       'https://cdn.rawgit.com/freeCodeCamp/testable-projects-fcc/a80ce8f9/src/data/tree_map/video-game-sales-data.json'
   },
   movies: {
-    TITLE: 'Movie Sales',
-    DESCRIPTION: 'Top 100 Highest Grossing Movies Grouped By Genre',
+    TITLE: 'Ventas de películas',
+    DESCRIPTION: 'Las 100 películas más taquilleras agrupadas por género',
     FILE_PATH:
       'https://cdn.rawgit.com/freeCodeCamp/testable-projects-fcc/a80ce8f9/src/data/tree_map/movie-data.json'
   },
   kickstarter: {
-    TITLE: 'Kickstarter Pledges',
+    TITLE: 'Promesas de Kickstarter',
     DESCRIPTION:
-      'Top 100 Most Pledged Kickstarter Campaigns Grouped By Category',
+      'Las 100 campañas de Kickstarter más comprometidas agrupadas por categoría',
     FILE_PATH:
       'https://cdn.rawgit.com/freeCodeCamp/testable-projects-fcc/a80ce8f9/src/data/tree_map/kickstarter-funding-data.json'
   }
