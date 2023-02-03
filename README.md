@@ -1,2 +1,2 @@
-# Visualiza-datos-con-un-diagrama-de-mapa-de-arbol
- Se crea una grafica sobre Ventas de videojuegos 
+# Visualize data with a treemap diagram
+ A graph is created on Video Game Sales
